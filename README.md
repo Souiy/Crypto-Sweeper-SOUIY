@@ -5,14 +5,14 @@
 ---
 
 ## 1. Clone Repository
-git clone https://github.com/Souiy/Auto-Crypto-Sweeper-SOUIY.git
+git clone https://github.com/Souiy/Crypto-Sweeper-SOUIY.git
 
-<button onclick="navigator.clipboard.writeText('git clone https://github.com/Souiy/Auto-Crypto-Sweeper-SOUIY.git')">📋 Copy</button>
+<button onclick="navigator.clipboard.writeText('git clone https://github.com/Souiy/Crypto-Sweeper-SOUIY.git')">📋 Copy</button>
 
 ---
 
 ## 2. Masuk ke folder
-cd Auto-Crypto-Sweeper-SOUIY
+cd Crypto-Sweeper-SOUIY
 
 <button onclick="navigator.clipboard.writeText('cd Auto-Crypto-Sweeper-SOUIY')">📋 Copy</button>
 
